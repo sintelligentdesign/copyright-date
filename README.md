@@ -1,0 +1,1 @@
+This isn't super exciting. It fetches the current year and sticks it into an element in your HTML (presumably a span in your footer) with the ID ``#u-current-year``.
